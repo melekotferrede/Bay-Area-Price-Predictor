@@ -8,3 +8,5 @@ I focused heavily on the visualizations before the actual modelling began, I fin
 The Project itself is contained in the ipynb, and the models themselves don't take too long to train with a gpu and as such I haven't uploaded the actual trained model.
 
 In the future I intend to use some word embeddings to make use of the address attribute in the model itself as I have to many unique values to make it worthwhile currently.
+
+If your having errors seeing the interactive maps or chloropleths from folium paste the link to the notebook here: https://nbviewer.org/.
